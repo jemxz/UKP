@@ -202,7 +202,7 @@ function Footer() {
       <div className="container">
         <div className="footer-section">
           <h3>Design Joy Ceramics</h3>
-          <p>Manufacturers of premium ceramic tiles since 1985</p>
+          <p>Manufacturers of premium ceramic tiles since 1930</p>
         </div>
         <div className="footer-section">
           <h4>Terms & Conditions</h4>
