@@ -17,8 +17,8 @@ function App() {
   const products = [
     {
       id: 1,
-      name: "Ceramic Floor Tile",
-      description: "High-quality 30x45 cm ceramic tile for floors",
+      name: "Ceramic Floor Tiles",
+      description: "High-quality 40x40 cm ceramic tile for floors",
       price: 0.59,
       sqm: 100.00,
       origin: "India",
